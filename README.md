@@ -5,5 +5,5 @@
 
 **数企前端博客** 是 *BDSaas 前端组* 用来学习和分享的一个平台。旨在能让每个人都能够自发的学习并将自己的心得通过博客的方式分享出来，不限篇幅不限具体内容。让我们大家能够一起学习、讨论，一起成长、进步，共勉！
 
-1. [深入 javascript 之 寄生组合式继承—2022-04-06—汪博](https://github.com/BDSaaS/blog/blob/main/resource/%E6%B7%B1%E5%85%A5%20javascript%20%E4%B9%8B%20%E5%AF%84%E7%94%9F%E7%BB%84%E5%90%88%E5%BC%8F%E7%BB%A7%E6%89%BF.md)
+1. [深入 javascript 之 寄生组合式继承—2022-04-06—汪博](https://github.com/BDSaaS/blog/issues/1)
 
